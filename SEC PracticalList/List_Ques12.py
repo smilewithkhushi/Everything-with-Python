@@ -1,0 +1,4 @@
+"""
+PRACTICAL LIST QUESTION 12
+
+"""
