@@ -15,6 +15,6 @@ A repository to help you get started and explore the world of Python Programming
 </ul>
 <h3> 
 Get Started today!</h3>
-![image](https://github.com/smilewithkhushi/Everything-with-Python/assets/102166679/218ea53e-27c2-4a11-9a24-5e75749b7383)
+<img src="https://github.com/smilewithkhushi/Everything-with-Python/assets/102166679/218ea53e-27c2-4a11-9a24-5e75749b7383" width=300>
 
 <h2> Give this repo a **⭐** and contribute a code! </h2>
