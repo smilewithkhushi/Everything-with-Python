@@ -99,7 +99,6 @@ class bank_account:
             else:
                 print('......invaild choice,please try again!..........')
             print()
-            choice = input('>Do you want to continue?(type*y*for yes):')
 #Create object of bank_account 
 s = bank_account()
 #call method
